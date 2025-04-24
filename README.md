@@ -1,1 +1,1 @@
-# Coputer-Graphics-All-Labs
+# Coputer-Graphics-All-Lab-Task
